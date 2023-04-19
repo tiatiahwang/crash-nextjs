@@ -2,5 +2,4 @@
 
 ### 1. 설치
 
-`npx create-next-app@latest`\n
-`npx create-next-app@latest --typescript`
+> `npx create-next-app@latest`<br/> > `npx create-next-app@latest --typescript`
