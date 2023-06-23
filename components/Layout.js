@@ -5,6 +5,13 @@ export default function Layout({ children }) {
     <>
       <NavBar />
       <div>{children}</div>
+      <style jsx>{`
+        div {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+      `}</style>
     </>
   );
 }
